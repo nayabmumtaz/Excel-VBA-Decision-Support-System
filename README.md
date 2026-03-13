@@ -80,4 +80,5 @@ Operations managers can use this tool to determine optimal production capacity f
 Author
 
 Nayab Mumtaz
+
 Business Analytics & Data Science (University of Calgary)
