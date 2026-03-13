@@ -18,8 +18,9 @@ If capacity is too low:
 - service level failures
 
 If capacity is too high:
--excess production costs
-inefficient resource utilization
+
+- excess production costs
+- inefficient resource utilization
 
 This system helps decision-makers evaluate different capacity levels under stochastic demand conditions.
 
@@ -73,6 +74,7 @@ How to Run the Model
 7. Review results in the Outputs and Report sheets.
 
 Example Use Case
+
 Operations managers can use this tool to determine optimal production capacity for a pharmaceutical product under uncertain demand conditions. By testing multiple capacity levels, the model helps identify strategies that balance service levels and operational efficiency.
 
 Author
